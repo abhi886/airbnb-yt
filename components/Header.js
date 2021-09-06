@@ -22,7 +22,7 @@ function Header() {
         <input
           className='flex-grow pl-5 bg-transparent outline-none text-gray-600 placeholder-gray-400'
           type='text'
-          placeHolder='Start Your Search'
+          placeholder='Start Your Search'
         />
         <SearchIcon className='hidden md:inline-flex h-8 bg-red-400 text-white rounded-full p-2 cursor-pointer md:mx-2' />
       </div>
