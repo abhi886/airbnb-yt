@@ -47,7 +47,12 @@ export default function Home({ exploreData, cardsData }) {
         </section>
 
         <section>
-          <LargeCard />
+          <LargeCard
+            img={"https://links.papareact.com/4cj"}
+            title={"The Greatest Outdoors"}
+            description={"Wishlists curated by Airbnb"}
+            buttonText={"Get Started"}
+          />
         </section>
       </main>
     </div>
